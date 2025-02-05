@@ -20,6 +20,10 @@ app.get('/api/user', (req, res) => {
             "id": 3,
             "name": "RajeshJane",
             "age": 35
+        }, {
+            "id": 5,
+            "name": "KUMAR",
+            "age": 55
         }
 ])
     
